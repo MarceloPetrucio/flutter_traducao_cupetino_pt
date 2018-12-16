@@ -57,7 +57,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
             ),
             SizedBox(height: 20.0,),
-            Text("Exmplo para demonstrar a tradução de Cupetino",
+            Text("Exemplo para demonstrar a tradução de Cupetino",
               textAlign: TextAlign.center,
               style: TextStyle(
                 fontSize: 25.0,
